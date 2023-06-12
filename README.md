@@ -27,5 +27,6 @@ The cloud computing field is expected to grow a lot in coming decade as companie
 
 As the modern DevOps and Cloud computing goes hands-in-hands, this course is targeted to make engineers have flavor of both. This will help them to grow in their career path.
 
-So just grab the seat and advance your career as DevOps-Cloud professional, thus widening your probability to get placed in better organization with better package.
+The trainer is having 20 years of experience on various technologies and platform. Last 10 years, he is working on virtualizations platforms, virtualizations. He is involved in migration of company's workload to cloud. Containerization, Orchestration platforms, DevOps, Cloud are all part of his domain. He is AWS certified Solution Architect and Azure certified Solution Architect as well.
 
+So just grab the seat and advance your career as DevOps-Cloud professional, thus widening your probability to get placed in better organization with better package.
